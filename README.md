@@ -2,7 +2,7 @@
     <img src="src/assets/logo.png" width="294px"/>
 </div>
 
-<h2 align="center">BoilerPlate ReactJS with Vite</h2>
+<h2 align="center">Boilerplate ReactJS with Vite</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
