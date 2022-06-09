@@ -24,7 +24,6 @@
 
 ---
 <br>
-<<<<<<< HEAD
 <i>
 Boilerplate desenvolvido para facilitar a inicialização de outros projetos.
 O repositório possui uma estrutura base configurada para iniciar projetos React com Typescript.
@@ -40,23 +39,6 @@ Qualquer coisa é só entrar em contato!
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://twitter.com/tamirfaria" style="color: unset; text-decoration: none" target="_blank">
-=======
-<h3 style="color: white; backgroud-color: black">
-Boilerplate desenvolvido para facilitar a inicialização de outros projetos.
-O repositório possui uma estrutura base configurada para iniciar projetos React com Typescript.
-Qualquer coisa é só entrar em contato!
-</h3>
-<p align="center">👇</p>
-
-<p align="center">
-    <a href="http://linkedin.com/in/lucastamirfaria" style="color: unset; text-decoration: none" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/tamirfaria" style="color: unset; text-decoration: none" target="blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://twitter.com/tamirfaria" style="color: unset; text-decoration: none" target="blank">
->>>>>>> 33a6f80c2b223e99411589d9efb9fa48b18accd3
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
 </p>
